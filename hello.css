@@ -1,0 +1,64 @@
+.container-fluid{
+    padding: 2px;
+    overflow: hidden;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: whitesmoke;
+}
+.sign{
+    border-radius: 10px;
+    text-align: center;
+    background: #ee0a0a;
+    margin: 20px;
+    color: ghostwhite;
+    overflow: hidden;
+}
+.sayhello{
+    text-align: center;
+    padding: 200px;
+}
+/*LINKS*/
+a:link{
+    /*display: block;*/
+    text-align: center;
+    text-decoration: none;
+    color: #504e4e;
+}
+a:visited{
+    /*display: block;*/
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    /*display: block;*/
+    text-align: center;
+    /*text-decoration: none;*/
+    color: red;
+}
+a:active{
+    /*display: block;*/
+    text-align: center;
+    text-decoration: none;
+    color: #f3eef8;
+}
+.col-2{
+    overflow: hidden;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+}
+img{
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+}
+/*TEXT*/
+p{
+    text-align: center;
+    color: #504e4e;
+}
+h2{
+    text-align: center;
+    color: #504e4e;
+}

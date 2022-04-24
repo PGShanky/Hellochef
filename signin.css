@@ -1,0 +1,55 @@
+body{
+    background: ghostwhite;
+}
+.form{
+    text-align: center;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: white;
+    font-family: David;
+    border-radius: 5px;
+    font-weight: lighter;
+    font-size: smaller;
+    overflow: hidden;
+}
+button{
+    overflow: hidden;
+    border-radius: 10px;
+    text-decoration: none;
+}
+a{
+    color: red;
+}
+
+span{
+    font-family: David;
+    /*text-align: start;*/
+    color: #504e4e;
+}
+h3{
+    font-family: David;
+    /*text-align: start;*/
+    color: #504e4e;
+}
+.footerimage{
+    text-align: center;
+    padding: 2px;
+}
+.footer{
+    overflow: hidden;
+    text-align: center;
+}
+img{
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+}
+.row{
+    padding: 10px;
+    margin: 20px;
+}
+.col{
+    padding: 10px;
+    margin: 5px;
+}

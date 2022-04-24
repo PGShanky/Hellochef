@@ -1,0 +1,44 @@
+.container-fluid{
+    text-align: center;
+    padding: 2%;
+}
+.introcontent{
+    background-image: url("https://res.cloudinary.com/hellochef/image/upload/c_scale,dpr_2.0,f_auto,fl_progressive,q_auto,w_1200/v1/website/V2/how-it-works/Cook_eat_enjoy_-_How_it_works");
+    padding: 200px;
+    text-align: center;
+}
+/*.introcontent{*/
+/*    margin: 50px;*/
+/*}*/
+/*BOXES*/
+.boxcontent{
+    text-align: center;
+    margin: 50px;
+}
+/*TEXT*/
+h1{
+    color: #605e5e;
+    font-family: David, serif;
+}
+p{
+    color: gray;
+    font-family: David, serif;
+}
+span{
+    color: gray;
+    font-family: David, serif;
+}
+/*LISTS*/
+li{
+
+}
+/*IMAGES*/
+img{
+    max-width: 100%;
+    height: auto;
+    /*float: snap;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
